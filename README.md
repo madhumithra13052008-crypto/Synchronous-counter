@@ -70,6 +70,7 @@ endmodule
 <img width="1855" height="846" alt="Screenshot 2025-12-15 114229" src="https://github.com/user-attachments/assets/0ec138f3-d7a6-4b71-8af5-a0a3facc4003" />
 
 **TRUTH TABLE**
+
 <img width="879" height="296" alt="image" src="https://github.com/user-attachments/assets/64554869-42e1-4667-9227-e3309707da4a" />
 
 **RESULTS**
